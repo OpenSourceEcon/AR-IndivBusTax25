@@ -1,0 +1,22 @@
+name: ar-indivbustax25-dev
+channels:
+- conda-forge
+dependencies:
+- python>=3.12, <3.14
+- ipython
+- ipykernel
+- jupyter
+- numpy
+- pandas>=1.4.4
+- bokeh>=3.4.0
+- matplotlib
+- plotly
+- pip
+- pip:
+  - policyengine-us
+  - cost-of-capital-calculator
+  - behresp
+  - bokeh_sampledata
+  - selenium
+  - geopandas
+  - openpyxl
