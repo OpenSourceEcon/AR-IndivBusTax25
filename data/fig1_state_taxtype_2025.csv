@@ -1,0 +1,52 @@
+State,Abbrev,TaxType,TopRate,TopBracketStart,TaxType_str,TaxType_str_short,fill_color,label_color
+Alabama,AL,2,5.00%,$6k,Nearly flat state income tax rates,Nearly flat income tax rates,purple,black
+Alaska,AK,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+Arizona,AZ,1,2.50%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Arkansas,AR,3,3.90%,$25.7k,Progressive state income tax rates,Progressive income tax rates,blue,white
+California,CA,3,13.30%,$1.4m,Progressive state income tax rates,Progressive income tax rates,blue,white
+Colorado,CO,1,4.40%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Connecticut,CT,3,6.99%,$1m,Progressive state income tax rates,Progressive income tax rates,blue,white
+Delaware,DE,3,6.60%,$60k,Progressive state income tax rates,Progressive income tax rates,blue,white
+District of Columbia,DC,3,10.75%,$1m,Progressive state income tax rates,Progressive income tax rates,blue,white
+Florida,FL,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+Georgia,GA,1,5.39%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Hawaii,HI,3,11.00%,$650k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Idaho,ID,2,5.695%,"$9,346",Nearly flat state income tax rates,Nearly flat income tax rates,purple,black
+Illinois,IL,1,4.95%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Indiana,IN,1,3.00%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Iowa,IA,1,3.80%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Kansas,KS,3,5.58%,$46k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Kentucky,KY,1,4.00%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Louisiana,LA,1,3.00%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Maine,ME,3,7.15%,$126.9k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Maryland,MD,3,5.75%,$300k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Massachusetts,MA,3,9.00%,$1.1m,Progressive state income tax rates,Progressive income tax rates,blue,white
+Michigan,MI,1,4.25%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Minnesota,MN,3,9.85%,"$330,410",Progressive state income tax rates,Progressive income tax rates,blue,white
+Mississippi,MS,2,4.40%,$10k,Nearly flat state income tax rates,Nearly flat income tax rates,purple,black
+Missouri,MO,3,4.70%,"$40,691",Progressive state income tax rates,Progressive income tax rates,blue,white
+Montana,MT,3,5.90%,$42.2k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Nebraska,NE,3,5.84%,"$77,730",Progressive state income tax rates,Progressive income tax rates,blue,white
+Nevada,NV,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+New Hampshire,NH,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+New Jersey,NJ,3,10.75%,$1m,Progressive state income tax rates,Progressive income tax rates,blue,white
+New Mexico,NM,3,5.90%,$315k,Progressive state income tax rates,Progressive income tax rates,blue,white
+New York,NY,3,10.90%,$25m,Progressive state income tax rates,Progressive income tax rates,blue,white
+North Carolina,NC,1,4.25%,$0,Flat state income tax rate,Flat income tax rate,red,black
+North Dakota,ND,3,2.50%,"$298,075",Progressive state income tax rates,Progressive income tax rates,blue,white
+Ohio,OH,3,3.50%,$100k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Oklahoma,OK,2,4.75%,$14.4k,Nearly flat state income tax rates,Nearly flat income tax rates,purple,black
+Oregon,OR,3,9.90%,$250k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Pennsylvania,PA,1,3.07%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Rhode Island,RI,3,5.99%,"$181,650",Progressive state income tax rates,Progressive income tax rates,blue,white
+South Carolina,SC,3,6.00%,"$46,530",Progressive state income tax rates,Progressive income tax rates,blue,white
+South Dakota,SD,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+Tennessee,TN,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+Texas,TX,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+Utah,UT,1,4.55%,$0,Flat state income tax rate,Flat income tax rate,red,black
+Vermont,VT,3,8.75%,$294.6k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Virginia,VA,2,5.75%,$17k,Nearly flat state income tax rates,Nearly flat income tax rates,purple,black
+Washington,WA,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
+West Virginia,WV,3,4.82%,$60k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Wisconsin,WI,3,7.65%,"$431,060",Progressive state income tax rates,Progressive income tax rates,blue,white
+Wyoming,WY,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
